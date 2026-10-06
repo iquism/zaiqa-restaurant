@@ -12,7 +12,7 @@
 <br />
 
 <div align="center">
-  <img src="zaiqa-restaurant-screenshot.png" alt="Zaiqa Restaurant homepage" width="100%" />
+  <img src="zaiqa-restaurant.png" alt="Zaiqa Restaurant homepage" width="100%" />
 </div>
 
 <br />
