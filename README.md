@@ -1,27 +1,24 @@
-# Zaiqa Restaurant — Taste the Tradition
+<h1>Zaiqa Restaurant</h1>
 
-A premium fictional-client restaurant website built with **Next.js 14**, **TypeScript** and **Tailwind CSS**.
+<p>Restaurant website with digital menu and table reservation system.</p>
 
-## Pages
+<p>🔗 <b>Live:</b> <a href="https://zaiqarestaurant.vercel.app">https://zaiqarestaurant.vercel.app</a></p>
 
-- `/` — Cinematic hero, marquee strip, signature dishes, story + stats, testimonials, reservation CTA
-- `/menu` — Full menu with category filters, live search and price sorting
-- `/about` — Restaurant story, values and timeline
-- `/contact` — Table reservation form with validation + info cards
+<h2>Features</h2>
 
-## Run locally
+<ul>
+  <li>15 dishes with PKR pricing</li>
+  <li>Category filters &amp; search</li>
+  <li>Spice level indicators</li>
+  <li>Table reservation form</li>
+  <li>Fully responsive design</li>
+</ul>
 
-```bash
-npm install
-npm run dev
-```
+<h2>Tech Stack</h2>
 
-Open http://localhost:3000
+<p>Next.js 14 · React · TypeScript · Tailwind CSS · Vercel</p>
 
-## Deploy
+<h2>Developed by</h2>
 
-Push to GitHub, then import the repo in Vercel and Deploy. No environment variables needed.
+<p><b>iquism</b> — <a href="https://iquism-portfolio.vercel.app">https://iquism-portfolio.vercel.app</a></p>
 
----
-
-*Portfolio sample project by **iquism** — fictional brand, AI-generated food photography.*
